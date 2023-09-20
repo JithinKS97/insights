@@ -1,3 +1,3 @@
 # Musings
 
-My thoughts on some very deep questions...
+My thoughts on some very deep questions.
