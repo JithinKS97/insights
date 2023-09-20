@@ -14,7 +14,7 @@ One of the inherent properties of our Universe is things that are stable tend to
 
 Another observed fact is that atoms can join together to form molecules that have very interesting properties. Some molecules formed are very stable, so they tend to stay longer.
 
-Now assume that a molecule formed that is very stable somehow has obtained the ability to create a copy of itself from the surrounding raw material molecules. We can delve into the chemistry of this, but let's just assume that this happened.
+Now assume that a molecule formed that is very stable somehow has obtained the ability to create a copy of itself from the surrounding raw material molecules. We could delve into the complex chemistry of how something like this could happen, but let's not do that and just assume that this happened.
 
 Now what will happen, is more and more copies of this molecule will be created. And since it's stable, it stays for a long period of time, to leave more copies.
 
@@ -28,10 +28,12 @@ These molecules by their slow evolution caused the slow development of chemical 
 
 The self-replicating molecule that we have been discussing is the ancestor of genes. Genes have been perfecting their craft of self-replication by forming more and more and more complex structures and functions around them. Eventually, this leads to the formation of cells, where genes sit at the center called the nucleus, surrounded by other structures called organelles that have different functions.
 
+The same slow evolution would have also led to the multiple genes cooperating together leading to the formation of multicellular beings like us.
+
 The process of incremental change in the genes, that produce features and structures that enhance the chances of survival and reproduction, we call natural selection.
 
-All the amazing features of life, intelligence, emotions, and sex have been developed through the same process. For example, fear is a feature that enables an organism to escape from danger, which enhances its chances of survival and eventually leaves more copies of itself.
+All the amazing features of life, intelligence, emotions, and sexual reproduction have been developed through the same process. For example, fear is a feature that enables an organism to escape from danger, which enhances its chances of survival and eventually leaves more copies of itself.
 
-Life and all the amazing characteristics of life can thus may be tracked to this particular property of our Universe where some things are more stable than others.
+Life can be summarized as stable molecule configurations trying to sustain and spread through space and time.
 
-Maybe life could be summarised as the stable configuration of molecules trying to propogate itself through space and time!
+The range of all the emotions that we experience, the extremes like overwhelming joy and profound sorrow, and all the shades in between, originated from the relentless drive of these simple molecules to survive and reproduce in a hostile and ever-changing environment!
