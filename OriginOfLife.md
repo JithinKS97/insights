@@ -36,4 +36,6 @@ All the amazing features of life, intelligence, emotions, and sexual reproductio
 
 Life can be summarized as stable molecule configurations trying to sustain and spread through space and time.
 
+There is a small catch, the molecules are not perfectly stable, but it is subject to slight variations such that the survival machines built by it successfully survive and reproduce in the environment that they are in!
+
 The range of all the emotions that we experience, the extremes like overwhelming joy and profound sorrow, and all the shades in between, originated from the relentless drive of these simple molecules to survive and reproduce in a hostile and ever-changing environment!
