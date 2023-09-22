@@ -6,17 +6,17 @@ We could imagine that if an organism somehow can perceive the surroundings even 
 
 This perception of the environment can increase in complexity so that it becomes closer and closer to reality. The organisms that best perceive the environment will have higher chances of accurately detecting food and predators.
 
-There are multiple ways to perceive the environment. Light, sound, molecules of gas, direct contact, etc. are some of them.
+There are multiple ways to perceive the environment. Light, sound, surrounding molecules, direct contact, etc. are some of them.
 
 Organisms thus developed the ability of sight, hearing, smell, and touch to detect these external natural phenomena so that they could navigate the environment better for their survival.
 
-The ability to perceive the present is advantageous, another advantageous feature to have is to remember situations. This could be the most primitive form of memory.
+The ability to perceive the present is advantageous
 
-If the organism could remember strategies that have helped it in the past to get food or escape from predators, it would have offered a survival advantage to the organic,
+An additional advantageous feature to have is to remember situations. This could be the most primitive form of memory.
 
-Now this could evolve to a more sophisticated form.
+If the organism could remember strategies that have helped it in the past to get food or escape from predators, it would have offered a survival advantage to the organism.
 
-In the end, the organism could evolve an internal mechanism by which it forms a model of the surroundings.
+This could evolve to a more sophisticated form. The organism could evolve an internal mechanism by which it forms a model of the surroundings.
 
 If within the model, it could simulate strategies it could implement, that will improve survival chances.
 
