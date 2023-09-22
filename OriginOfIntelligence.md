@@ -10,7 +10,9 @@ There are multiple ways to perceive the environment. Light, sound, surrounding m
 
 Organisms thus developed the ability of sight, hearing, smell, and touch to detect these external natural phenomena so that they could navigate the environment better for their survival.
 
-The ability to perceive the present is advantageous
+This is what would have led to the development of sense organs in organisms in their present form.
+
+The ability to perceive the present is advantageous.
 
 An additional advantageous feature to have is to remember situations. This could be the most primitive form of memory.
 
