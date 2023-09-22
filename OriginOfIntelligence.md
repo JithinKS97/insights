@@ -10,7 +10,7 @@ There are multiple ways to perceive the environment. Light, sound, molecules of 
 
 Organisms developed the ability of sight, hearing, smell, and touch to detect these external natural phenomena so that they could navigate the environment better for their survival.
 
-Thought ability to perceive the present is advantageous, another advantageous feature to have is to remember situations. This could be the most primitive form of memory.
+The ability to perceive the present is advantageous, another advantageous feature to have is to remember situations. This could be the most primitive form of memory.
 
 If the organism could remember strategies that have helped it in the past to get food or escape from enemies, it would have helped the organism.
 
@@ -22,4 +22,4 @@ If within the model, it could simulate strategies it could implement, that also 
 
 In short thinking and consciousness is an advanced form of this feature where the organism has created a model of the environment that it is in and it is aware of its existence in the model.
 
-Thinking is nothing but simulating various possibilities in which the environment could evolve and choosing the best possibility that enhances it's survival and reproduction chances.
+Thinking is nothing but simulating various possibilities in which the environment could evolve and choosing the best possibility that enhances its survival and reproduction chances.
