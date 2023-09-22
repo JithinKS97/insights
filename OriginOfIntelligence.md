@@ -2,7 +2,7 @@
 
 We have seen how natural selection could lead to the evolution of features that increase the chances of survival and reproduction of an organism.
 
-We could imagine that if an organism somehow can perceive the surroundings even in a very minimal way, it can significantly improve its chances of survival as this could allow the organism to detect food and predators more efficiently.
+We could imagine that if an organism somehow can perceive the surroundings even in a very minimal way, it can significantly improve its chances of survival as this could allow the organism to detect the presence of food and predators.
 
 This perception of the environment can increase in complexity so that it becomes closer and closer to reality. The organisms that best perceive the environment will have higher chances of accurately detecting food and predators.
 
