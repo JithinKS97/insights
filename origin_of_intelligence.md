@@ -1,4 +1,4 @@
-# Origin of Intelligence
+# Origin of Intelligence and consciousness
 
 We have seen how natural selection could lead to the evolution of features that increase the chances of survival and reproduction of an organism.
 
