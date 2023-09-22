@@ -4,7 +4,7 @@ We have seen how natural selection could lead to the evolution of features that 
 
 We could imagine that if an organism somehow can perceive the surroundings even in a very minimal way, it can significantly improve its chances of survival as this could allow the organism to detect food and predators more efficiently.
 
-This perception of the environment can increase in complexity so that it becomes closer and closer to reality. The organisms that best perceive the environment will have higher chances of accurately detecting food and enemies.
+This perception of the environment can increase in complexity so that it becomes closer and closer to reality. The organisms that best perceive the environment will have higher chances of accurately detecting food and predators.
 
 There are multiple ways to perceive the environment. Light, sound, molecules of gas, direct contact, etc. are some of them.
 
@@ -20,6 +20,6 @@ In the end, the organism could evolve an internal mechanism by which it forms a 
 
 If within the model, it could simulate strategies it could implement, that will improve survival chances.
 
-In short thinking and consciousness is an advanced form of this feature where the organism has created a model of the environment that it is in and it is aware of its own existence in the model.
+In short, thinking and consciousness is an advanced form of this feature where the organism has created a model of the environment that it is in and it is aware of its own existence in the model.
 
 Thinking is nothing but simulating various possibilities in which the environment could evolve and choosing the best possibility that enhances its survival and reproduction chances.
