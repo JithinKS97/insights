@@ -1,4 +1,4 @@
-We have observed how natural selection can result in small genetic variations that gradually lead to the development of traits that improve the survival and reproductive success of organisms.
+We saw how natural selection can result in small genetic variations that gradually lead to the development of traits that improve the survival and reproductive success of organisms.
 
 How could this have led to the formation of intelligence and, eventually, consciousness?
 
