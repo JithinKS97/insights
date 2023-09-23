@@ -10,7 +10,7 @@ For this, the first ability that is needed is perception of the environment.
 
 In life’s simplest stages, the earliest form of this would have been the ability to perceive surroundings and detect food and predators.
 
-To perceive our surroundings, we rely on natural phenomena such as light, sound, and external substances.
+To perceive our surroundings, we rely on natural phenomena such as light, sound, and the presence of gas, etc.
 
 These are the means through which we can know what is outside.
 
