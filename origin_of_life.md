@@ -28,7 +28,7 @@ These molecules by their slow evolution caused the slow development of chemical 
 
 The self-replicating molecule that we have been discussing is the ancestor of genes. Genes have been perfecting their craft of self-replication by forming more and more and more complex structures and functions around them. Eventually, this leads to the formation of cells, where genes sit at the center called the nucleus, surrounded by other structures called organelles that have different functions.
 
-The same slow evolution would have also led to the multiple genes cooperating together leading to the formation of multicellular beings like us.
+The same slow evolution would have also led to the multiple cells cooperating together leading to the formation of multicellular beings like us.
 
 The process of incremental change in the genes, that produce features and structures that enhance the chances of survival and reproduction, we call natural selection.
 
