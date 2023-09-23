@@ -1,5 +1,3 @@
-## Consciousness - awareness of the existence of the world and ourselves in the world
-
 We have seen how natural selection could lead to small variations in the genes which would slowly develop features that enhanced the survival and reproduction chances of organisms.
 
 How could this have led to the formation of intelligence and eventually consciousness?
