@@ -1,27 +1,45 @@
-# Origin of Intelligence and consciousness
+## Consciousness - awareness of the existence of the world and ourselves in the world
 
-We have seen how natural selection could lead to the evolution of features that increase the chances of survival and reproduction of an organism.
+We have seen how natural selection could lead to small variations in the genes which would slowly develop features that enhanced the survival and reproduction chances of organisms.
 
-We could imagine that if an organism somehow can perceive the surroundings even in a very minimal way, it can improve its chances of survival as this could allow the organism to detect the presence of food and predators.
+How could this have led to the formation of intelligence and eventually consciousness?
 
-This perception of the environment can increase in complexity so that it becomes closer and closer to reality. The organisms that best perceive the environment will have higher chances of accurately detecting food and predators.
+Well, let's think about what it means to be intelligent and conscious.
 
-There are multiple ways to perceive the environment. Light, sound, surrounding molecules, direct contact, etc. are some of them.
+It means an organism has the ability to perceive and think about its environment and take actions that would make it better off.
 
-Organisms thus developed the ability of sight, hearing, smell, and touch to detect these external natural phenomena so that they could navigate the environment better for their survival.
+For this, the first ability that is needed is perception of the environment.
 
-This is what would have led to the development of sense organs in organisms in their present form.
+When life was very simple, the earliest form of this would have been the ability to perceive surroundings and detect food and predators.
 
-The ability to perceive the present is advantageous.
+To perceive the surroundings, we need to rely on natural phenomena - light, sound, external substances, etc.
 
-An additional advantageous feature to have is to remember situations. This could be the most primitive form of memory.
+These are the means through which we can know what is it that is outside.
 
-If the organism could remember strategies that have helped it in the past to get food or escape from predators, it would have offered a survival advantage to the organism.
+The earliest means for this would have been cells that might be sensitive to these natural phenomena.
 
-This could evolve to a more sophisticated form. The organism could evolve an internal mechanism by which it forms a model of the surroundings.
+Even primitive mechanisms to detect them would have provided survival benefits as the organisms that possessed them could utilize that to survive and reproduce better.
 
-If within the model, it could simulate strategies it could implement, that will improve survival chances.
+We could imagine that slowly these mechanisms would have evolved to become the sense organs that we have that aid in our hearing, sight, smell, taste, and touch.
 
-In short, thinking and consciousness is an advanced form of this feature where the organism has created a model of the environment that it is in and it is aware of its own existence in the model.
+These are nothing but systems developed to perceive our environment so that we can take actions that help us survive better.
 
-Thinking is nothing but simulating various possibilities in which the environment could evolve and choosing the best possibility that enhances its survival and reproduction chances and acting based on it.
+The second ability that is needed is to store experiences of the past. If a response to some situation has enabled an organism to better its survival chances, it could copy the same strategy next time when it is in the same environment.
+
+This would have led to the formation of primitive forms of memory. 
+
+Eventually, this leads to the formation of an ability in which the organism could form a model of the world and it could simulate and store different strategies and opt for the best strategy that would make it better off. 
+
+I think this is how consciousness develops. 
+
+A conscious being is able to create a model of the world and it is aware of its own presence in the model.
+
+Thinking is nothing but simulating how the model with ourselves present in it will evolve if we take different courses of action.
+
+After taking into consideration many actions and many ways in which it will evolve, we choose the action that will favor us in the best way.
+
+An organism that has the ability to do this in the best way is said to be very intelligent and conscious.
+
+So you are said to be conscious because you are aware of the existence of the world and yourself in it.
+
+So far we have discussed animals. But there are plants also. Plants have different survival challenges as compared to us because of which the mechanisms that were developed in them were different.
