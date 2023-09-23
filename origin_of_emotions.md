@@ -16,9 +16,20 @@ Those beings that have high drive and intelligence to be involved in activities 
 I think this is the reason why we love so much gossiping about who is mating whom, and there are so many romantic movies, literature, and even the high presence of porn on the internet that matter because successful reproduction is of utmost importance as far as we are concerned.
 
 ## Fear
-It's not difficult to see why the feeling of fear will enhance the chance of survival. It's just a mechanism that would allow the organism to escape from dangers around it which will include dangers from natural phenomena, like fire, height, water, etc. Also, fear of predators and peers who are competing for the same resources. 
+It's not difficult to see why the feeling of fear will enhance the chance of survival. It's just a mechanism that would allow the organism to escape from dangers around them including natural phenomena, like fire, height, water, etc., and fear of predators and peers who are competing for the same resources. 
 
 Since organisms in each species are fighting for the same resources, food, shelter, and mates. We could imagine competition rising between them and those that are stronger will bully the ones that are not strong.
 
 ## Sadness and pain
-This is a mechanism that will punish an organism if it does something that would have reduced its chances of survival and reproduction. For example, why do we feel so sad when somebody rejects our romantic advancement or we break up with someone? It induces a high amount of pain in us. This is because that event has reduced reproduction chances. And as we have already seen, reproduction is of utmost importance to us as we are the descendants of ancestorial chain that have successfully reproduced.
+This is a mechanism that will punish an organism if it does something that would have reduced its chances of survival and reproduction. For example, why do we feel so sad when somebody rejects our romantic advancement or we break up with someone?
+
+It induces a high amount of pain in us. This is because that event has reduced reproduction chances. And as we have already seen, reproduction is of utmost importance to us as we are the descendants of ancestorial chains that have successfully reproduced.
+
+I think the pain that we get is a mechanism that allows the individual to focus on that event, which reduces its chances of reproduction so that the organisms can think better to solve this or do better next time.
+
+## Disgust
+We are chemical beings. Much of the operations that are happening in our body are chemical in nature. So there will be a lot of materials in the surroundings that might be harmful to us that we should avoid.
+
+Disgust is a mechanism that has evolved for this it allows us to avoid substances that might harm us.
+
+## Jealousy
