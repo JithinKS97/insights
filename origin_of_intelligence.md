@@ -28,16 +28,14 @@ This would have resulted in the development of primitive forms of memory.
 
 Eventually, this leads to the development of an ability in which the organism can create a model of the world. It can simulate and store various strategies and choose the best one that would result in the greatest benefit.
 
-This results in the development of consciousness.
+These developments eventually will lead to a more complex phenomenon called consciousness. 
 
-A conscious being is capable of creating a model of the world and being aware of its own presence within that model.
+A conscious being is capable of creating a model of the world and being aware of its own presence within that model. You and I are conscious beings as we are aware of our own existence and could strive to find reason behind our own existence!
 
-Thinking is simply the act of simulating how a model, which includes ourselves, will evolve if we choose different courses of action.
+Thinking is the act of simulating how a model, which includes ourselves, will evolve if we choose different courses of action.
 
 After considering various actions and their potential evolution, we select the action that will benefit us the most.
 
-An organism that can do this exceptionally well is considered highly intelligent and conscious.
-
-You are considered conscious because you are aware of the existence of the world and yourself within it.
+An organism that can do this exceptionally well is considered highly intelligent.
 
 So far we have discussed animals. But there are plants also. Plants have different survival challenges as compared to us because of which the mechanisms that were developed in them were different.
