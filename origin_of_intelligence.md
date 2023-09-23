@@ -28,7 +28,7 @@ This would have resulted in the development of primitive forms of memory.
 
 Eventually, this leads to the development of an ability in which the organism can create a model of the world. It can simulate and store various strategies and choose the best one that would result in the greatest benefit.
 
-These developments eventually will lead to a more complex phenomenon called consciousness. 
+These developments eventually will lead to a more complex attribute called consciousness. 
 
 A conscious being is capable of creating a model of the world and being aware of its own presence within that model. You and I are conscious beings as we are aware of our own existence and could strive to find reason behind our own existence!
 
