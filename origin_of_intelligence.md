@@ -40,4 +40,10 @@ An organism that can do this exceptionally well is considered highly intelligent
 
 So far we have discussed animals. But there are entire other classes of organisms like plants, fungi etc.
 
-They have different survival challenges as compared to us because of which the mechanisms that were developed in them were different.
+They have different survival challenges as compared to us because of which the attributes developed in them are different.
+
+All these are traits that are developed over millions of years of evolution through random experiments that is driven by random variations in genes.
+
+If a change in a gene produced a trait that improved survival and reproductive chances, the beings that carry that gene become abundant.
+
+Eventually the animals in the world is filled with those set of genes that produced best traits for the environment that they are in.
