@@ -30,7 +30,7 @@ Eventually, this leads to the development of an ability in which the organism ca
 
 These developments eventually will lead to a more complex attribute called consciousness. 
 
-A conscious being is capable of creating a model of the world and being aware of its own presence within that model. You and I are conscious beings as we are aware of our own existence and could strive to find reason behind our own existence!
+A conscious being is capable of creating a model of the world and being aware of its own presence within that model. You and I are so conscious that we are striving to find reasons behind our own existence.
 
 Thinking is the act of simulating how a model, which includes ourselves, will evolve if we choose different courses of action.
 
@@ -38,4 +38,6 @@ After considering various actions and their potential evolution, we select the a
 
 An organism that can do this exceptionally well is considered highly intelligent.
 
-So far we have discussed animals. But there are plants also. Plants have different survival challenges as compared to us because of which the mechanisms that were developed in them were different.
+So far we have discussed animals. But there are entire other classes of organisms like plants, fungi etc.
+
+They have different survival challenges as compared to us because of which the mechanisms that were developed in them were different.
