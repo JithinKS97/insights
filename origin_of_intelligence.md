@@ -24,4 +24,4 @@ If within the model, it could simulate strategies it could implement, that will 
 
 In short, thinking and consciousness is an advanced form of this feature where the organism has created a model of the environment that it is in and it is aware of its own existence in the model.
 
-Thinking is nothing but simulating various possibilities in which the environment could evolve and choosing the best possibility that enhances its survival and reproduction chances.
+Thinking is nothing but simulating various possibilities in which the environment could evolve and choosing the best possibility that enhances its survival and reproduction chances and acting based on it.
