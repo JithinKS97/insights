@@ -22,7 +22,7 @@ It is possible to imagine that over time these mechanisms would have gradually e
 
 These systems are developed to perceive our environment, enabling us to take actions that improve our chances of survival.
 
-The second necessary ability is the capacity to store past experiences. If an organism's response to a particular situation has improved its chances of survival, it can replicate the same strategy the next time it encounters a similar environment.
+The second necessary ability is the capacity to store past experiences. If an organism's response to a particular situation has improved its chances of survival, it can replicate the same strategy the next time it encounters a similar situation.
 
 This would have resulted in the development of primitive forms of memory.
 
