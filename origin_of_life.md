@@ -34,8 +34,8 @@ The process of incremental change in the genes, that produce features and struct
 
 All the amazing features of life, intelligence, emotions, and sexual reproduction have been developed through the same process. For example, fear is a feature that enables an organism to escape from danger, which enhances its chances of survival and eventually leaves more copies of itself.
 
-May be, can life be summarized as stable molecule configurations trying to sustain and spread through space and time?
+Maybe, can life be summarized as stable molecule configurations trying to sustain and spread through space and time.
 
-There is a small catch, the molecules are not perfectly stable, but it is subject to slight variations such that the changes cause the slow evolution that improves the survive and reproduction capabilities.
+There is a small catch, the molecules are not perfectly stable, but it is subject to slight variations such that the changes cause the slow evolution that improves the survival and reproduction capabilities.
 
 The range of all the emotions that we experience, the extremes like overwhelming joy and profound sorrow, and all the shades in between, originated from the relentless drive of these simple molecules to survive and reproduce in a hostile and ever-changing environment!
