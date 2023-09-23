@@ -12,4 +12,5 @@ In contrast, if this robot has a high incentive for this, it would eventually le
 
 Those beings that have high drive and intelligence to be involved in activities that successfully create more copies of themselves will fare better. Their trait will be inherited by their offspring, and this will only improve over time.
 
-I think this is the reason why we love so much gossipping who is mating whom, and there are so much romantic movies, literatures and even porn for that matter because successful reproduction is of utmost importance as far as we are concerned.
+I think this is the reason why we love so much gossipping who is mating whom, and there are so many romantic movies, literature, and even the high presence of porn on the internet for that matter because successful reproduction is of utmost importance as far as we are concerned.
+
