@@ -41,3 +41,5 @@ An organism that can do this exceptionally well is considered highly intelligent
 So far we have discussed animals. But there are entire other classes of organisms like plants, fungi, etc.
 
 They have different survival challenges as compared to us because of which the attributes developed in them are different.
+
+The evolution of intelligence and consciousness can be traced back to fundamental survival necessities. Simple mechanisms of perceiving the environment and storing experiences laid the foundation for complex cognitive processes. Over time, through the pressures of natural selection, these capabilities expanded and refined, leading to the profound self-awareness and advanced thinking capacities we see in many organisms today. 
