@@ -8,7 +8,7 @@ It means an organism has the ability to perceive and think about its environment
 
 For this, the first ability that is needed is perception of the environment.
 
-In life’s simplest stages, the earliest form of this would have been the ability to perceive surroundings and detect food and predators.
+In life’s simplest stages, the earliest form of this would have been the ability to perceive surroundings to detect food, predators, and mates, as these are the most important aspects that enhance survival and reproduction chances.
 
 To perceive our surroundings, we rely on natural phenomena such as light, sound, and the presence of gas, etc.
 
