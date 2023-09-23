@@ -16,7 +16,7 @@ These are the means through which we can know what is outside.
 
 The earliest method for achieving this would have been cells that could be sensitive to these natural phenomena.
 
-Even basic mechanisms to detect them would have provided survival benefits, as organisms that possessed them could use them to survive and reproduce more effectively.
+Even basic mechanisms to detect them would have provided survival benefits, as organisms that possessed them could use them to fare better.
 
 It is possible to imagine that over time these mechanisms would have gradually evolved to become the sense organs that we have today, which help us with our hearing, sight, smell, taste, and touch.
 
